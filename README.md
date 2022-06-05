@@ -1,4 +1,4 @@
-Aplikasi Kelompok 2
+Hello, i'm Dian Krisnawati
 
 <!---
 Diankrisnawati/Diankrisnawati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
